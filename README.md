@@ -45,26 +45,9 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<img width="1003" alt="Screenshot 2023-11-17 at 2 09 13 PM" src="https://github.com/shaurya1997/discoverWeb/assets/49118885/852f556a-b1ae-4384-a40f-228ff600ce0f">
+<img width="979" alt="Screenshot 2023-11-17 at 2 09 33 PM" src="https://github.com/shaurya1997/discoverWeb/assets/49118885/276751dc-cb1c-4fee-b66f-9b09843e6112">
+<img width="985" alt="Screenshot 2023-11-17 at 2 09 23 PM" src="https://github.com/shaurya1997/discoverWeb/assets/49118885/95e37af9-8649-4b73-9317-15d49f8d56e1">
+<img width="1008" alt="Screenshot 2023-11-17 at 2 09 02 PM" src="https://github.com/shaurya1997/discoverWeb/assets/49118885/fd270b9a-ac6e-463a-98f4-3649cb30e18b">
+<img width="956" alt="Screenshot 2023-11-17 at 2 08 52 PM" src="https://github.com/shaurya1997/discoverWeb/assets/49118885/a59ebca5-a56e-4f52-89ba-dae7d9df02bd">
+<img width="1512" alt="Screenshot 2023-11-17 at 2 08 41 PM" src="https://github.com/shaurya1997/discoverWeb/assets/49118885/55a3650c-63a4-4afc-9c4b-de720284dfac">
