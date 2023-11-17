@@ -1,0 +1,16 @@
+body {
+  color: #FFFFFF;
+  margin: 0;
+  font-weight: 400;
+  background-color: #0B0E16;
+  Font-Family: Inter, Roboto, "Noto Sans SC Sliced", Helvetica, Arial, sans-serif
+}
+.middle {
+  display: flex;
+  justify-content: center;
+  gap:0.5rem;
+  margin-top: 40px;
+}
+.MuiCircularProgress-root {
+  color: rgb(39 222 241) !important;
+}

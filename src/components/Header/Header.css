@@ -1,0 +1,20 @@
+
+.ftx-img {
+    height: 2rem;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+}
+.header {
+    width: 100%;
+    display: flex;
+    padding: 1rem;
+    border-bottom: 1px solid rgb(43, 46, 59);
+    justify-content: space-between;
+}
+.right-item {
+  display: flex;
+  gap:1rem;
+  align-items: center;
+  margin-right: 1rem;
+  color: white;
+}
